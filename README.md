@@ -1,4 +1,4 @@
-# architectui-vue-pro
+# CameraTest Project (Client)
 
 ## Project setup
 ```
